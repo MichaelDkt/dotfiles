@@ -32,3 +32,5 @@
 [user]
 
   useconfigonly = true
+	email = michael.gressier@decathlon.com
+	name = Michael Gressier
